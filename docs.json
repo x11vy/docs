@@ -9,17 +9,17 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Overview",
-        "groups": [
-          {
-            "group": "Book",
-            "pages": [
-              "overview",
-              "introduction"
-            ]
-          }
+        "group": "Overview",
+        "pages": [
+          "introduction"
+        ]
+      },
+      {
+        "group": "Server Configuration",
+        "pages": [
+          "welcome-message"
         ]
       }
     ]
