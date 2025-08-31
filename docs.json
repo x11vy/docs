@@ -13,13 +13,19 @@
       {
         "group": "Overview",
         "pages": [
-          "introduction"
+          {
+            "page": "introduction",
+            "icon": "book"
+          }
         ]
       },
       {
         "group": "Server Configuration",
         "pages": [
-          "welcome-message"
+          {
+            "page": "welcome-message",
+            "icon": "waves"
+          }
         ]
       }
     ]
